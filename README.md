@@ -1,10 +1,10 @@
 ## About the project
 
-This repository contains the zoo functions project developed while studying at Trybe.
+This repository contains the zoo functions project developed while studying at Trybe. This projects put into practice the skills with `ES6`, `Higher Order Functions` and tests.
 
-This projects puts into practice the skills with `ES6`, `Higher Order Functions` and tests, the city hall gave you an important mission: organize the zoo's information! 🐘
+The city hall gave you an important mission: organize the zoo's information! 🐘
 
-You will be responsible for developing functions that seek information about zoo animals such as: species and location. In addition, you will also get data about the people who collaborate with the maintenance and care of the zoo. 🧑‍🌾
+You will be responsible for developing functions that search information about the zoo animals such as: species and location. In addition, you will also get data about the people who collaborate with the maintenance and care of the zoo. 🧑‍🌾
 
 It does not stop there! 🤩
 
