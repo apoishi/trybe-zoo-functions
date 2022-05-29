@@ -228,6 +228,8 @@ This function returns information regarding the elephants as the argument passed
 
 </details>
 
+</details>
+
 
 ### 7. Get at least 90% test coverage in the `handlerElephants` function
 
@@ -367,6 +369,8 @@ In the `calculateEntry` function:
 
 </details>
 
+</details>
+
 
 ### 9. Implement the `getSchedule` function
 
@@ -433,6 +437,7 @@ Animal schedule information should be made available in a query to people visiti
 
 </details>
 
+</details>
 
 ### 10. Implement the `getOldestFromFirstSpecies` function
 
@@ -457,6 +462,7 @@ The function receives an `id` parameter referring to the collaborating person an
 
 </details>
 
+</details>
 
 ### 11. Get at least 85% test coverage in the `getOpeningHours` function
 
@@ -581,6 +587,8 @@ Monday: { open: 0, close: 0 },
 
 </details>
 
+</details>
+
 
 ## Bonus requirements
 
@@ -637,6 +645,7 @@ This function returns information regarding the elephants as the argument passed
 
 </details>
 
+</details>
 
 ### 14. Get at least 100% test coverage in the `getOpeningHours` function
 
