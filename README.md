@@ -209,7 +209,7 @@ This function returns information regarding the elephants as the argument passed
 
 - Use the `npm run test:coverage` command to test coverage.
 
-**Cover will only check the highlighted features and not the entire application!**
+**Coverage will only check the highlighted features and not the entire application!**
 
 ⚠️ **Warning:** do not change the structure already implemented in the test files, just add the tests inside the `describe` block.
 
