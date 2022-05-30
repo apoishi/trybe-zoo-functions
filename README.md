@@ -1,6 +1,6 @@
 ## About the project
 
-This repository contains the zoo functions project developed while studying at Trybe. This projects put into practice the skills with `ES6`, `Higher Order Functions` and tests.
+This repository contains the zoo functions project developed while studying at Trybe. This project puts into practice the skills with `ES6`, `Higher Order Functions` and tests.
 
 The city hall gave you an important mission: organize the zoo's information! 🐘
 
